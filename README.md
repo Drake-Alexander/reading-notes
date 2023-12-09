@@ -14,7 +14,7 @@ This site is used to take Code 102. I’ll be using Markdown, HTML, CSS, and Jav
 
 ## Table of Contents
 
-### Code 201
+### Code 102
 
 
 
