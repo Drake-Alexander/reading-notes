@@ -15,7 +15,7 @@ This site is used to take Code 102. I’ll be using Markdown, HTML, CSS, and Jav
 ## Table of Contents
 
 ### Code 102
-
+[Growth Mindset](https://drake-alexander.github.io/reading-notes/102/Growth-Mindset)
 
 
 `Growth Mindset is knowing that if I put time and effort into something, I can get good at it. That no one is born great at something, everyone developes the skill over time.`	
