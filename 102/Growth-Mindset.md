@@ -10,4 +10,9 @@
 
 `The mind is everything, what you think, you become. - Siddhartha Gautama Buddha`
 
+- [X] The “source” for your site should be a README.md file, written with Markdown
+On the main page:
+- [X] Explain “growth mindset” in your own words
+- [X] Include 3 reminders to yourself of how to keep yourself in a growth mindset
+
 
