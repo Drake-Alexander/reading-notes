@@ -1,4 +1,4 @@
-### Q: What is Markdown?
+### q: What is Markdown?
 
 A: A simple way to create sophisticated formatting for your prose and code on GitHub with simple syntax.
 
