@@ -28,13 +28,13 @@
 
 * This command allows you to change to a different directory, if you don't have any arguements, it takes you back to your home directory.
 
-### mkdir
+### mkdir - Make Directory
 
-* 
+* This command creates a new directory with the name following the command "mkdir"
 
 ### touch
 
-* 
+* This command creates (touches) files within a folder. It can also change or modify the timestamp of a file.
 
 ## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 
