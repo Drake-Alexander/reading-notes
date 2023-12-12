@@ -10,7 +10,7 @@ I have 3 girls, Rosabelle and Aubrey are twin 2 year olds and Abigail is 11. The
 
 ## Purpose of this Website
 
-This site is used to take Code 102. I’ll be using Markdown, HTML, CSS, and JavaScript here. See the Table of Contents below to check out my pages!
+This site is used to take the Code 102 course and beyond! I’ll be using Markdown, HTML, CSS, and JavaScript. 
 
 ## Table of Contents
 
