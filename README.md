@@ -18,3 +18,5 @@ This site is used to take Code 102. I’ll be using Markdown, HTML, CSS, and Jav
 [Growth Mindset](https://drake-alexander.github.io/reading-notes/102/Growth-Mindset)
 
 [Markdown](https://drake-alexander.github.io/reading-notes/102/Markdown)
+
+[The Coders Computer](https://drake-alexander.github.io/reading-notes/102/The-Coder's-Computer)
