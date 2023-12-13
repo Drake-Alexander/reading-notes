@@ -1,6 +1,6 @@
 # Growth Mindset
 
-## 1. What is Growth Mindset :shipit:
+## 1. What is Growth Mindset  :shipit:
  * Growth Mindset is knowing that if I put time and effort into something, I can get good at it. That no one is born great at something, everyone developes the skill over time.
 
  ## 2. What are 3 reminders to help stay in a growth mindset? 
