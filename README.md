@@ -34,3 +34,33 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 [Operators and Loops](https://drake-alexander.github.io/reading-notes/102/Operators-and-Loops)
 
 ### Code 201
+
+[Lesson 1](https://drake-alexander.github.io/reading-notes/201/Lesson-1)
+
+[Lesson 2](https://drake-alexander.github.io/reading-notes/201/Lesson-2)
+
+[Lesson 3](https://drake-alexander.github.io/reading-notes/201/Lesson-3)
+
+[Lesson 4](https://drake-alexander.github.io/reading-notes/201/Lesson-4)
+
+[Lesson 5](https://drake-alexander.github.io/reading-notes/201/Lesson-5)
+
+[Lesson 6](https://drake-alexander.github.io/reading-notes/201/Lesson-6)
+
+[Lesson 7](https://drake-alexander.github.io/reading-notes/201/Lesson-7)
+
+[Lesson 8](https://drake-alexander.github.io/reading-notes/201/Lesson-8)
+
+[Lesson 9](https://drake-alexander.github.io/reading-notes/201/Lesson-9)
+
+[Lesson 10](https://drake-alexander.github.io/reading-notes/201/Lesson-10)
+
+[Lesson 11](https://drake-alexander.github.io/reading-notes/201/Lesson-11)
+
+[Lesson 12](https://drake-alexander.github.io/reading-notes/201/Lesson-12)
+
+[Lesson 13](https://drake-alexander.github.io/reading-notes/201/Lesson-13)
+
+[Lesson 14](https://drake-alexander.github.io/reading-notes/201/Lesson-14)
+
+[Lesson 15](https://drake-alexander.github.io/reading-notes/201/Lesson-15)
