@@ -23,6 +23,8 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 
 [Revisions-and-the-Cloud](https://drake-alexander.github.io/reading-notes/102/Revisions-and-the-Cloud)
 
+[Stretch goals for Revisions and the Cloud.](https://drake-alexander.github.io/reading-notes/102/Stretch-goals-for-102)
+
 [Structure web pages with HTML](https://drake-alexander.github.io/reading-notes/102/Structure-web-pages-with-HTML)
 
 [Design web pages with CSS](https://drake-alexander.github.io/reading-notes/102/Design-web-pages-with-CSS)
