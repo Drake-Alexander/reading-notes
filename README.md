@@ -10,11 +10,11 @@ I have 3 girls, Rosabelle and Aubrey are twin 2 year olds and Abigail is 11. The
 
 ## Purpose of this Website
 
-This site is used to take the Code 102 course and beyond! I’ll be using Markdown, HTML, CSS, and JavaScript. 
+This site is used to take the Code 102 course and beyond! I’ll be using Markdown, HTML, CSS, and JavaScript to develop my coding skills.
 
 ## Table of Contents
 
-### Code 102
+### Code 102 Reading Notes
 [Growth Mindset](https://drake-alexander.github.io/reading-notes/102/Growth-Mindset)
 
 [Markdown](https://drake-alexander.github.io/reading-notes/102/Markdown)
@@ -33,7 +33,7 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 
 [Operators and Loops](https://drake-alexander.github.io/reading-notes/102/Operators-and-Loops)
 
-### Code 201
+### Code 201 Reading notes
 
 [Lesson 1](https://drake-alexander.github.io/reading-notes/201/Lesson-1)
 
