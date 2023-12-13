@@ -23,5 +23,14 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 
 [Revisions-and-the-Cloud](https://drake-alexander.github.io/reading-notes/102/Revisions-and-the-Cloud)
 
+[Structure web pages with HTML](https://drake-alexander.github.io/reading-notes/102/Structure-web-pages-with-HTML)
+
+[Design web pages with CSS](https://drake-alexander.github.io/reading-notes/102/Design-web-pages-with-CSS)
+
+[Activate web pages with JavaScript](https://drake-alexander.github.io/reading-notes/102/Activate-web-pages-with-JavaScript)
+
+[Programming with JavaScript](https://drake-alexander.github.io/reading-notes/102/Programming-with-JavaScript)
+
+[Operators and Loops](https://drake-alexander.github.io/reading-notes/102/Operators-and-Loops)
 
 ### Code 201
