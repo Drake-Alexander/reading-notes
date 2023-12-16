@@ -23,7 +23,7 @@ A: A Semantic Element is an element that gives a line of code meaning.  Semantic
 Great example for html from one of the study resources for future reference:
 
 HTML
-<!doctype html>
+`<!doctype html>
 <html lang="en-US">
   <head>
     <meta charset="utf-8" />
@@ -33,7 +33,7 @@ HTML
   <body>
     <img src="images/firefox-icon.png" alt="My test image" />
   </body>
-</html>
+</html>`
 Here, we have the following:
 
 <!DOCTYPE html> — doctype. It is a required preamble. In the mists of time, when HTML was young (around 1991/92), doctypes were meant to act as links to a set of rules that the HTML page had to follow to be considered good HTML, which could mean automatic error checking and other useful things. However, these days, they don't do much and are basically just needed to make sure your document behaves correctly. That's all you need to know for now.
