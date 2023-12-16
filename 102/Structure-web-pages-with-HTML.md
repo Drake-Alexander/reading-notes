@@ -16,4 +16,4 @@ A:  It is called an attribute which is extra information about the element that 
 
 A: A Semantic Element is an element that gives a line of code meaning.  Semantics = meaning. We want to think about the purpose of the code and the role it plays, not the way we want it to appear. There are a lot of ways to make something appear a specific way, but using the semantic element is important for a variety of reasons. In the following example "h1 is the semantic element:
 
-<h1>This is a top level heading</h1>
+</h1>This is a top level heading</h1>
