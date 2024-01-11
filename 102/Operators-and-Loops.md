@@ -14,4 +14,4 @@ When the specified condition evaluates to false.
 
 ### How many times will a while loop execute?
 
-It will terminate when the condition becomes false. If it never becomes false, the loop will never terminate. We do not want infinite loops though.
+It executes for as long as its specified condition is true. It will terminate when the condition becomes false. If it never becomes false, the loop will never terminate. We do not want infinite loops though.
