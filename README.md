@@ -14,7 +14,7 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 Reading Notes
 [Growth Mindset](https://drake-alexander.github.io/reading-notes/102/Growth-Mindset)
 
 [Markdown](https://drake-alexander.github.io/reading-notes/102/Markdown)
@@ -35,36 +35,39 @@ This site is used to take the Code 102 course and beyond! I’ll be using Markdo
 
 [Operators and Loops](https://drake-alexander.github.io/reading-notes/102/Operators-and-Loops)
 
-### Code 201 Reading notes
+## Code 201 Reading notes
 
-[Lesson 1](https://drake-alexander.github.io/reading-notes/201/Lesson-1)
+[Class 01 - Setup Developer Toolbelt](https://drake-alexander.github.io/reading-notes/201/Lesson-1)
 
-[Lesson 2](https://drake-alexander.github.io/reading-notes/201/Lesson-2)
+[Class 02 - Introduction To Web Development](https://drake-alexander.github.io/reading-notes/201/Lesson-2)
 
-[Lesson 3](https://drake-alexander.github.io/reading-notes/201/Lesson-3)
+[Class 03 - Lists, The Box Model, and Loops](https://drake-alexander.github.io/reading-notes/201/Lesson-3)
 
-[Lesson 4](https://drake-alexander.github.io/reading-notes/201/Lesson-4)
+[Class 04 - Links, Layouts, and Functions](https://drake-alexander.github.io/reading-notes/201/Lesson-4)
 
-[Lesson 5](https://drake-alexander.github.io/reading-notes/201/Lesson-5)
+[Class 05 - Images, Color, Text, and More Work With Functions](https://drake-alexander.github.io/reading-notes/201/Lesson-5)
 
-[Lesson 6](https://drake-alexander.github.io/reading-notes/201/Lesson-6)
+[Class 06 - Domain Modeling, Intro to the DOM, and Object Literal Notation](https://drake-alexander.github.io/reading-notes/201/Lesson-6)
 
-[Lesson 7](https://drake-alexander.github.io/reading-notes/201/Lesson-7)
+[Class 07 - HTML Tables and JS Constructor Functions](https://drake-alexander.github.io/reading-notes/201/Lesson-7)
 
-[Lesson 8](https://drake-alexander.github.io/reading-notes/201/Lesson-8)
+[Class 08 - Layout with CSS](https://drake-alexander.github.io/reading-notes/201/Lesson-8)
 
-[Lesson 9](https://drake-alexander.github.io/reading-notes/201/Lesson-9)
+[Class 09 - Forms and Events](https://drake-alexander.github.io/reading-notes/201/Lesson-9)
 
-[Lesson 10](https://drake-alexander.github.io/reading-notes/201/Lesson-10)
+[Class 10 - Debugging and Error Handling](https://drake-alexander.github.io/reading-notes/201/Lesson-10)
 
-[Lesson 11](https://drake-alexander.github.io/reading-notes/201/Lesson-11)
+[Class 11 - Audio and Video in HTML; Domain Modeling Revisited](https://drake-alexander.github.io/reading-notes/201/Lesson-11)
 
-[Lesson 12](https://drake-alexander.github.io/reading-notes/201/Lesson-12)
+[Class 12 - Canvas and ChartJS](https://drake-alexander.github.io/reading-notes/201/Lesson-12)
 
-[Lesson 13](https://drake-alexander.github.io/reading-notes/201/Lesson-13)
+[Class 13 - Introduction to Persistence with Local Storage](https://drake-alexander.github.io/reading-notes/201/Lesson-13)
 
-[Lesson 14](https://drake-alexander.github.io/reading-notes/201/Lesson-14)
+[Class 14 - Documentation, Project Selection, & Team Workflow](https://drake-alexander.github.io/reading-notes/201/Lesson-14)
 
-[Lesson 15](https://drake-alexander.github.io/reading-notes/201/Lesson-15)
+[Class 15 - Course Recap & 301 Preview](https://drake-alexander.github.io/reading-notes/201/Lesson-15)
 
+## Code 301 Intermediate Software Development
+
+## Code 401 - Advanced Software Development
 
